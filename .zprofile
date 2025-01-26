@@ -1,0 +1,2 @@
+ZSH_DISABLE_COMPFIX="true"
+export OPENAI_KEY=

@@ -1,0 +1,6 @@
+[user]
+	name = Timothy Pillow
+	email = timothy.pillow@swisscom.com
+
+[alias] # https://stackoverflow.com/a/23486788
+	squash-all = "!f(){ git reset $(git commit-tree \"HEAD^{tree}\" \"$@\");};f"
