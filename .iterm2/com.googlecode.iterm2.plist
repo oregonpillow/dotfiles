@@ -189,7 +189,7 @@
 				<real>0.0</real>
 			</dict>
 			<key>Background Image Location</key>
-			<string>/Users/taapiti2/Downloads/image.png</string>
+			<string>/Users/taapiti2/.iterm2/image.png</string>
 			<key>Blend</key>
 			<real>0.19570312500000009</real>
 			<key>Blinking Cursor</key>
