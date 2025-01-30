@@ -3,5 +3,5 @@
 cd $HOME
 git clone https://github.com/oregonpillow/instant-mac.git
 cd instant-mac
-git checkout refresh
+git checkout minimal
 bash start.sh
